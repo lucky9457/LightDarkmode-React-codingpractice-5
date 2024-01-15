@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+.sec1 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  border: solid 1px;
+}
+.sec2 {
+  background-color: white;
+  color: black;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  border: solid 1px;
+}
+
+.bb {
+  padding: 15px;
+  width: 100px;
+  border-radius: 10px;
+}
